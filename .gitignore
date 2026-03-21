@@ -12,3 +12,12 @@ pyvenv.cfg
 lakehouse/
 bad_partitioning/
 agent.md
+
+# Ignored for Week 7 commit
+*.doc
+*.docx
+BigData_Week4_Spark_DeepDive_Solution.ipynb
+BigData_Week8_EDA_and_KPI.ipynb
+Online_Retail_Week3_Solution.ipynb
+download_images.py
+exam_backup_local/
